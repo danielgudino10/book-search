@@ -1,4 +1,4 @@
-# soldid - BookSearch Engine 
+# solid - BookSearch Engine 
 
 ## Description
 This application allows users to search for new books. Users can log in to save the books they would like to purchase and remove the books from their library.
